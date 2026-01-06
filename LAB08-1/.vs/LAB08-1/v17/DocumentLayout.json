@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\6811130014\\MIIA0106-2025-A\\LAB08\\LAB08-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3704D73-0093-4E8C-BE20-F6C47895E2F1}|..\\LAB08-7\\LAB08-7.vcxproj|D:\\6811130014\\MIIA0106-2025-A\\LAB08\\LAB08-7\\LAB08-7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FA9620-AD31-45F5-AD40-CB1755F83787}|..\\LAB08-5\\LAB08-5.vcxproj|D:\\6811130014\\MIIA0106-2025-A\\LAB08\\LAB08-5\\LAB08-5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738D6627-C328-47B7-A5F5-5B08F513290A}|..\\LAB08-6\\LAB08-6.vcxproj|D:\\6811130014\\MIIA0106-2025-A\\LAB08\\LAB08-6\\LAB08-6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF24A53-705B-4B69-876C-59EB40045DD0}|..\\LAB08-2\\LAB08-2.vcxproj|D:\\6811130014\\MIIA0106-2025-A\\LAB08\\LAB08-2\\LAB08-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED036C96-3287-479F-A30E-1163E2ED22E0}|..\\LAB08-3\\LAB08-3.vcxproj|D:\\6811130014\\MIIA0106-2025-A\\LAB08\\LAB08-3\\LAB08-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2940F0F3-2F1E-4AB9-8464-294B61C0713C}|..\\LAB08-4\\LAB08-4.vcxproj|D:\\6811130014\\MIIA0106-2025-A\\LAB08\\LAB08-4\\LAB08-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C0E32F-6FD8-41B1-BD8A-D8C3C3DA9D45}|LAB08-1\\LAB08-1.vcxproj|D:\\6811130014\\MIIA0106-2025-A\\LAB08\\LAB08-1\\LAB08-1\\LAB08-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1C0E32F-6FD8-41B1-BD8A-D8C3C3DA9D45}|LAB08-1\\LAB08-1.vcxproj|solutionrelative:LAB08-1\\LAB08-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LAB08-7.cpp",
+              "DocumentMoniker": "D:\\6811130014\\MIIA0106-2025-A\\LAB08\\LAB08-7\\LAB08-7.cpp",
+              "RelativeDocumentMoniker": "..\\LAB08-7\\LAB08-7.cpp",
+              "ToolTip": "D:\\6811130014\\MIIA0106-2025-A\\LAB08\\LAB08-7\\LAB08-7.cpp",
+              "RelativeToolTip": "..\\LAB08-7\\LAB08-7.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-06T10:26:57.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LAB08-6.cpp",
+              "DocumentMoniker": "D:\\6811130014\\MIIA0106-2025-A\\LAB08\\LAB08-6\\LAB08-6.cpp",
+              "RelativeDocumentMoniker": "..\\LAB08-6\\LAB08-6.cpp",
+              "ToolTip": "D:\\6811130014\\MIIA0106-2025-A\\LAB08\\LAB08-6\\LAB08-6.cpp",
+              "RelativeToolTip": "..\\LAB08-6\\LAB08-6.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-06T09:46:55.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LAB08-5.cpp",
+              "DocumentMoniker": "D:\\6811130014\\MIIA0106-2025-A\\LAB08\\LAB08-5\\LAB08-5.cpp",
+              "RelativeDocumentMoniker": "..\\LAB08-5\\LAB08-5.cpp",
+              "ToolTip": "D:\\6811130014\\MIIA0106-2025-A\\LAB08\\LAB08-5\\LAB08-5.cpp",
+              "RelativeToolTip": "..\\LAB08-5\\LAB08-5.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-06T09:31:52.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LAB08-4.cpp",
+              "DocumentMoniker": "D:\\6811130014\\MIIA0106-2025-A\\LAB08\\LAB08-4\\LAB08-4.cpp",
+              "RelativeDocumentMoniker": "..\\LAB08-4\\LAB08-4.cpp",
+              "ToolTip": "D:\\6811130014\\MIIA0106-2025-A\\LAB08\\LAB08-4\\LAB08-4.cpp",
+              "RelativeToolTip": "..\\LAB08-4\\LAB08-4.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-06T09:13:51.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LAB08-3.cpp",
+              "DocumentMoniker": "D:\\6811130014\\MIIA0106-2025-A\\LAB08\\LAB08-3\\LAB08-3.cpp",
+              "RelativeDocumentMoniker": "..\\LAB08-3\\LAB08-3.cpp",
+              "ToolTip": "D:\\6811130014\\MIIA0106-2025-A\\LAB08\\LAB08-3\\LAB08-3.cpp",
+              "RelativeToolTip": "..\\LAB08-3\\LAB08-3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-06T08:58:35.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LAB08-2.cpp",
+              "DocumentMoniker": "D:\\6811130014\\MIIA0106-2025-A\\LAB08\\LAB08-2\\LAB08-2.cpp",
+              "RelativeDocumentMoniker": "..\\LAB08-2\\LAB08-2.cpp",
+              "ToolTip": "D:\\6811130014\\MIIA0106-2025-A\\LAB08\\LAB08-2\\LAB08-2.cpp",
+              "RelativeToolTip": "..\\LAB08-2\\LAB08-2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-06T08:46:19.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LAB08-1.cpp",
+              "DocumentMoniker": "D:\\6811130014\\MIIA0106-2025-A\\LAB08\\LAB08-1\\LAB08-1\\LAB08-1.cpp",
+              "RelativeDocumentMoniker": "LAB08-1\\LAB08-1.cpp",
+              "ToolTip": "D:\\6811130014\\MIIA0106-2025-A\\LAB08\\LAB08-1\\LAB08-1\\LAB08-1.cpp",
+              "RelativeToolTip": "LAB08-1\\LAB08-1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-06T08:32:55.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
